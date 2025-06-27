@@ -1,5 +1,3 @@
-Claro! Aqui está um README.md bem organizado e explicativo para o seu setup do n8n com Docker Compose:
-
 # n8n Setup com Docker Compose
 
 Este repositório contém a configuração para executar o **n8n** utilizando Docker Compose, com suporte a PostgreSQL para banco de dados e Redis para fila de execução. O setup inclui containers separados para o editor, worker e webhook do n8n, garantindo escalabilidade e organização.
@@ -94,7 +92,7 @@ Para parar e remover todos os containers, volumes e network:
 
 ```bash
 docker-compose down -v
-
+```
 
 
 ## Considerações
@@ -115,6 +113,3 @@ docker-compose down -v
 ---
 
 ## Licença
-
-Este projeto está aberto para uso pessoal e profissional conforme a licença do seu ambiente.
-

@@ -113,3 +113,5 @@ docker-compose down -v
 ---
 
 ## Licença
+
+Este projeto está aberto para uso pessoal e profissional conforme a licença do seu ambiente.

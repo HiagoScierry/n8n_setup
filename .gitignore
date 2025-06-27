@@ -1,0 +1,5 @@
+/redis_data
+/postgres_data
+/n8n_data
+
+.env
